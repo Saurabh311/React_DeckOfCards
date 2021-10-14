@@ -87,7 +87,7 @@ function App() {
   return (    
     <div>
     
-    <h1>{deck.deck_id}</h1>
+    <h1>Deck ID: {deck.deck_id}</h1>
 
     <h1 style= {{textAlign: "center"}}>Score:  {score}</h1>
 
